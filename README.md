@@ -1,8 +1,3 @@
-<style>
-  .test {
-     color:red;
-  }
-</style>
-<p class="test">
+<p style="color:red;">
   Hey
 </p>
